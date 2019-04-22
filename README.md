@@ -8,8 +8,8 @@ api/jobs: Get the list of jobs from JobAdder API
 
 api/candidates: Get the most qualified candidate(s) for a job
 
-To test the endpoints swagger (open-source framework) has been added to the project. 
-It provides an UI for describing, producing, consuming, and visualizing the RESTful endpoints.
+To test the endpoints swagger, an open-source framework has been added to the project. 
+It provides a UI for describing, producing, consuming, and visualizing the RESTful endpoints.
 
 ## Run Swagger
 
