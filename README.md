@@ -5,6 +5,7 @@ This project was generated with Microsoft Visual Studio 2017. It is a web API cr
 The API has two end points:
 
 api/jobs: Get the list of jobs from JobAdder API
+
 api/candidates: Get the most qualified candidate(s) for a job
 
 To test the endpoints swagger (open-source framework) has been added to the project. 
